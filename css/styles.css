@@ -1,0 +1,88 @@
+body {
+    background: #a3b83c;
+    font-family: Trebuchet MS;
+    color: white;
+}
+
+.btn-primary {
+    background: #0d3d56;
+    border-style: none;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#outer {
+    margin-top: 50px;
+}
+
+#main {
+    margin-left: 40%;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.col-xs-6 {
+    border-style: solid;
+    height: 165px;
+    width: 165px;
+    display: inline-block;
+}
+
+.squares {
+    border-style: solid;
+    border-color: black;
+}
+
+#score {
+    padding-top: 30px;
+    font-size: 25px;
+}
+
+#one {
+    background: #00cc00;
+}
+
+#one:active {
+    background: #00ff00;
+}
+
+#one.active {
+    background: #00ff00;
+}
+
+#two {
+    background: #cc0000;
+}
+
+#two:active {
+    background: #ff0000;
+}
+
+#two.active {
+    background: #ff0000;
+}
+
+#three {
+    background: #ffcc00;
+}
+
+#three:active {
+    background: #ffff00;
+}
+
+#three.active {
+    background: #ffff00;
+}
+
+#four {
+    background: #0033cc;
+}
+
+#four:active {
+    background: #0066ff;
+}
+
+#four.active {
+    background: #0066ff;
+}
